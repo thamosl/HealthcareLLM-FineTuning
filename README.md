@@ -86,7 +86,7 @@ These metrics provide a balanced evaluation of classification performance.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HealthcareLLM-FineTuning.git
+git clone https://github.com/thamosl/HealthcareLLM-FineTuning.git
 ```
 
 Navigate to the project directory:
